@@ -1,7 +1,10 @@
 Nome: Diulia Justin Deon
+
 Matrícula: 19102170
+
 GitHub: https://github.com/diuliad/aed1
-Link dos vídeos:
+
+Link dos vídeos: https://drive.google.com/drive/folders/1UUCPgYcsqB4HDNAMK-gOAU_nXt7BtFji?usp=sharing
 
 -- Exercícios --
 
