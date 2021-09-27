@@ -1,0 +1,12 @@
+==10507== 
+==10507== HEAP SUMMARY:
+==10507==     in use at exit: 0 bytes in 0 blocks
+==10507==   total heap usage: 7 allocs, 7 frees, 2,158 bytes allocated
+==10507== 
+==10507== All heap blocks were freed -- no leaks are possible
+==10507== 
+==10507== For lists of detected and suppressed errors, rerun with: -s
+==10507== ERROR SUMMARY: 2 errors from 1 contexts (suppressed: 0 from 0)
+
+
+
