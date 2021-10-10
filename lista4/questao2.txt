@@ -1,3 +1,0 @@
-2.É possível que uma inserção/remoção gere mais do que uma rotação dupla? Explique. 
-
-Não é possível, porque a cada inserção/remoção feita na árvore já ocorre a verificação de balanceamento, e caso precise ocorrer rotações para que ela fique balanceada, já é feito de imediato, então não vai ocorrer situações em que precise de mais de uma rotação dupla.
