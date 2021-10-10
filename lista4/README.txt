@@ -24,6 +24,10 @@ Nomes:	lista4_exercicios1e2.mp4
 		3. Ao final, use um código de verificação (slide anterior) para validar a árvore e dar ok
 	2. Segundo cenário
 		1. Após a execução do primeiro cenário deve testar a árvore com os casos mostrado no seguinte link: https://stackoverflow.com/questions/3955680/how-to-check-if-my-avl-tree-implementation-is-correct
+		
+-- Execução--
+
+O exercício deve ser executados por um compilador C. 
 
 -- Avaliação --
 
