@@ -5,8 +5,8 @@ Matrícula: 19102170
 GitHub: https://github.com/diuliad/aed1
 
 Link dos vídeos: https://drive.google.com/drive/folders/1UUCPgYcsqB4HDNAMK-gOAU_nXt7BtFji?usp=sharing
-Nomes:	lista4_exercicios1e2.mp4
-	lista4_exercicio3.mp4
+Nomes:	lista4_exercicios1e2
+	lista4_exercicio3
 
 -- Exercícios --
 
